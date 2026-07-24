@@ -49,4 +49,4 @@ SELECT * FROM Appointments where AppointmentID=1;
 
 ## Output
 
-![Output](Screenshot 2026-07-13 at 12.41.42.png)
+![Output](./Screenshot%202026-07-13%20at%2012.41.42.png)

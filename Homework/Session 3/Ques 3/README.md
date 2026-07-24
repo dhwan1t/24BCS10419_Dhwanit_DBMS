@@ -14,4 +14,4 @@ LIMIT 3;
 
 ## Output
 
-![Output](Screenshot 2026-07-16 at 14.32.11.png)
+![Output](./Screenshot%202026-07-16%20at%2014.32.11.png)

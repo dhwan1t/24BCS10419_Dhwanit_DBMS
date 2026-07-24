@@ -28,4 +28,4 @@ AND f2.user_id = (
 
 ## Output
 
-![Output](Screenshot 2026-07-16 at 14.19.13.png)
+![Output](./Screenshot%202026-07-16%20at%2014.19.13.png)

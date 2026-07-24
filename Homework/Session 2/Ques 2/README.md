@@ -24,4 +24,4 @@ FROM tweets;
 
 ## Output
 
-![Output](Screenshot 2026-07-16 at 14.25.54.png)
+![Output](./Screenshot%202026-07-16%20at%2014.25.54.png)

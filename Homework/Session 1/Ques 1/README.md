@@ -18,4 +18,4 @@ WHERE product_id NOT IN(
 
 ## Output
 
-![Output](Screenshot 2026-07-16 at 14.16.34.png)
+![Output](./Screenshot%202026-07-16%20at%2014.16.34.png)

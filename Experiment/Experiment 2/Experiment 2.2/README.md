@@ -1,7 +1,7 @@
 # Experiment 2.2
 
 ## Aim
-To execute the given SQL query.
+To execute the given SQL query and unserstand how UNION ALL works.
 
 ## Question
 Refer to the SQL query below.

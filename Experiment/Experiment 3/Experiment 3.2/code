@@ -1,0 +1,5 @@
+-- ! Question: Count the numnber of student in each city
+SELECT city,
+COUNT(*) AS student_count
+FROM Students
+GROUP BY city;
